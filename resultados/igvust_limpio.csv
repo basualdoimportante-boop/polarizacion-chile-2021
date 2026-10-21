@@ -1,0 +1,347 @@
+﻿cod_com,Comuna,Region,cod_reg,rank_nac,c_ig_nac,c_ig_reg,pob_rsh_com,hog_com,Clasificación
+15102,Camarones,Arica y Parinacota,15,39,1,2,1051,701,Rural
+15202,General Lagos,Arica y Parinacota,15,2,1,1,562,301,Rural
+15201,Putre,Arica y Parinacota,15,74,1,3,1673,1029,Rural
+15101,Arica,Arica y Parinacota,15,114,2,4,232406,134217,Urbana
+1405,Pica,Tarapacá,1,151,2,3,7649,3946,Rural
+1402,Camiña,Tarapacá,1,73,1,2,1646,871,Rural
+1107,Alto Hospicio,Tarapacá,1,155,2,3,132073,67188,Urbana
+1101,Iquique,Tarapacá,1,302,4,4,169336,97639,Urbana
+1404,Huara,Tarapacá,1,45,1,2,3424,1778,Rural
+1401,Pozo Almonte,Tarapacá,1,249,3,4,18183,9788,Rural
+1403,Colchane,Tarapacá,1,44,1,1,1498,876,Rural
+2101,Antofagasta,Antofagasta,2,306,4,3,331394,176884,Urbana
+2102,Mejillones,Antofagasta,2,252,3,2,15584,8636,Rural
+2301,Tocopilla,Antofagasta,2,210,3,1,26039,14584,Rural
+2104,Taltal,Antofagasta,2,182,3,1,12381,6674,Rural
+2302,María Elena,Antofagasta,2,290,4,3,4783,2758,Rural
+2203,San Pedro de Atacama,Antofagasta,2,225,3,2,11664,6814,Rural
+2103,Sierra Gorda,Antofagasta,2,327,4,4,1952,1120,Rural
+2201,Calama,Antofagasta,2,334,4,4,151143,82029,Urbana
+2202,Ollagüe,Antofagasta,2,315,4,4,270,178,Rural
+3201,Chañaral,Atacama,3,247,3,3,13422,7339,Rural
+3101,Copiapó,Atacama,3,297,4,4,158392,91139,Urbana
+3303,Freirina,Atacama,3,109,2,1,8035,4174,Rural
+3302,Alto del Carmen,Atacama,3,124,2,2,5208,2895,Rural
+3202,Diego de Almagro,Atacama,3,310,4,4,11629,6062,Rural
+3304,Huasco,Atacama,3,260,4,4,11831,6802,Rural
+3103,Tierra Amarilla,Atacama,3,217,3,2,15002,8529,Rural
+3301,Vallenar,Atacama,3,238,3,3,55463,31756,Urbana
+3102,Caldera,Atacama,3,116,2,1,22317,12753,Rural
+4202,Canela,Coquimbo,4,181,3,3,10704,5634,Rural
+4204,Salamanca,Coquimbo,4,331,4,4,31175,16659,Rural
+4303,Monte Patria,Coquimbo,4,123,2,2,32369,16874,Rural
+4106,Vicuña,Coquimbo,4,89,2,2,30060,16392,Rural
+4201,Illapel,Coquimbo,4,280,4,4,33762,16954,Rural
+4102,Coquimbo,Coquimbo,4,174,3,3,242818,124747,Urbana
+4103,Andacollo,Coquimbo,4,194,3,3,12471,6399,Rural
+4302,Combarbalá,Coquimbo,4,49,1,1,13952,7165,Rural
+4104,La Higuera,Coquimbo,4,66,1,1,5867,3219,Rural
+4203,Los Vilos,Coquimbo,4,135,2,2,25024,12777,Rural
+4105,Paiguano,Coquimbo,4,208,3,3,5694,3275,Rural
+4304,Punitaqui,Coquimbo,4,42,1,1,12713,6588,Rural
+4305,Río Hurtado,Coquimbo,4,142,2,2,4761,2673,Rural
+4301,Ovalle,Coquimbo,4,228,3,4,116078,61826,Urbana
+5404,Petorca,Valparaíso,5,186,3,2,10820,6022,Rural
+5109,Viña del Mar,Valparaíso,5,311,4,4,291462,160516,Urbana
+5502,Calera,Valparaíso,5,205,3,2,53956,30644,Urbana
+5701,San Felipe,Valparaíso,5,195,3,2,75784,40930,Urbana
+5703,Llaillay,Valparaíso,5,211,3,2,27726,16269,Mixta
+5301,Los Andes,Valparaíso,5,271,4,4,58732,30083,Urbana
+5702,Catemu,Valparaíso,5,117,2,1,14944,8146,Rural
+5401,La Ligua,Valparaíso,5,176,3,2,40125,21092,Mixta
+5801,Quilpué,Valparaíso,5,266,4,3,150858,81843,Urbana
+5105,Puchuncaví,Valparaíso,5,166,2,2,24721,12964,Mixta
+5107,Quintero,Valparaíso,5,80,1,1,36493,19610,Mixta
+5704,Panquehue,Valparaíso,5,277,4,4,7544,4071,Rural
+5103,Concón,Valparaíso,5,330,4,4,38196,20177,Mixta
+5506,Nogales,Valparaíso,5,221,3,3,22566,11909,Rural
+5304,San Esteban,Valparaíso,5,251,3,3,18391,8719,Mixta
+5601,San Antonio,Valparaíso,5,235,3,3,93920,46023,Urbana
+5603,Cartagena,Valparaíso,5,86,1,1,26822,14307,Mixta
+5402,Cabildo,Valparaíso,5,145,2,1,20690,10769,Mixta
+5605,El Tabo,Valparaíso,5,33,1,1,21290,12116,Mixta
+5302,Calle Larga,Valparaíso,5,289,4,4,16403,8454,Mixta
+5602,Algarrobo,Valparaíso,5,219,3,3,18232,10098,Mixta
+5102,Casablanca,Valparaíso,5,291,4,4,29702,16177,Mixta
+5604,El Quisco,Valparaíso,5,17,1,1,23212,12906,Mixta
+5504,La Cruz,Valparaíso,5,320,4,4,22346,11703,Mixta
+5503,Hijuelas,Valparaíso,5,159,2,1,19780,10672,Mixta
+5802,Limache,Valparaíso,5,199,3,2,54106,28564,Mixta
+5803,Olmué,Valparaíso,5,197,3,2,19892,10557,Mixta
+5403,Papudo,Valparaíso,5,243,3,3,7361,3533,Rural
+5705,Putaendo,Valparaíso,5,97,2,1,17702,9695,Rural
+5303,Rinconada,Valparaíso,5,285,4,4,10812,5292,Rural
+5706,Santa María,Valparaíso,5,207,3,2,15636,7774,Mixta
+5606,Santo Domingo,Valparaíso,5,338,4,4,12568,5998,Rural
+5405,Zapallar,Valparaíso,5,313,4,4,9461,4796,Rural
+5804,Villa Alemana,Valparaíso,5,237,3,3,124865,62824,Urbana
+5101,Valparaíso,Valparaíso,5,177,3,2,283223,165073,Urbana
+5201,Isla de Pascua,Valparaíso,5,220,3,3,7546,3842,Rural
+5104,Juan Fernández,Valparaíso,5,162,2,1,1014,563,Rural
+13302,Lampa,Metropolitana de Santiago,13,298,4,3,110410,56837,Urbana
+13404,Paine,Metropolitana de Santiago,13,264,4,2,79948,42344,Mixta
+13127,Recoleta,Metropolitana de Santiago,13,241,3,2,151767,85483,Urbana
+13106,Estación Central,Metropolitana de Santiago,13,245,3,2,159468,94074,Urbana
+13601,Talagante,Metropolitana de Santiago,13,284,4,2,74477,41363,Urbana
+13101,Santiago,Metropolitana de Santiago,13,273,4,2,342298,221366,Urbana
+13124,Pudahuel,Metropolitana de Santiago,13,308,4,3,213690,116084,Urbana
+13128,Renca,Metropolitana de Santiago,13,309,4,3,139679,73141,Urbana
+13201,Puente Alto,Metropolitana de Santiago,13,259,3,2,505801,273918,Urbana
+13401,San Bernardo,Metropolitana de Santiago,13,246,3,2,280606,145790,Urbana
+13105,El Bosque,Metropolitana de Santiago,13,189,3,1,149450,82583,Urbana
+13130,San Miguel,Metropolitana de Santiago,13,340,4,4,114864,67986,Urbana
+13120,Ñuñoa,Metropolitana de Santiago,13,343,4,4,154934,90963,Urbana
+13122,Peñalolén,Metropolitana de Santiago,13,319,4,3,198389,109630,Urbana
+13121,Pedro Aguirre Cerda,Metropolitana de Santiago,13,154,2,1,97306,53502,Urbana
+13109,La Cisterna,Metropolitana de Santiago,13,316,4,3,88321,50892,Urbana
+13110,La Florida,Metropolitana de Santiago,13,332,4,4,328164,184713,Urbana
+13116,Lo Espejo,Metropolitana de Santiago,13,68,1,1,93418,50710,Urbana
+13117,Lo Prado,Metropolitana de Santiago,13,201,3,1,91501,52573,Urbana
+13111,La Granja,Metropolitana de Santiago,13,209,3,1,114660,64156,Urbana
+13104,Conchalí,Metropolitana de Santiago,13,234,3,1,117320,66024,Urbana
+13131,San Ramón,Metropolitana de Santiago,13,160,2,1,82199,47743,Urbana
+13604,Padre Hurtado,Metropolitana de Santiago,13,322,4,3,71645,37202,Urbana
+13108,Independencia,Metropolitana de Santiago,13,239,3,2,104121,61291,Urbana
+13118,Macul,Metropolitana de Santiago,13,339,4,4,104143,60704,Urbana
+13102,Cerrillos,Metropolitana de Santiago,13,295,4,3,79688,42535,Urbana
+13119,Maipú,Metropolitana de Santiago,13,325,4,4,447803,247091,Urbana
+13123,Providencia,Metropolitana de Santiago,13,344,4,4,64780,41122,Urbana
+13301,Colina,Metropolitana de Santiago,13,312,4,3,120569,61034,Urbana
+13403,Calera de Tango,Metropolitana de Santiago,13,301,4,3,21096,10610,Mixta
+13503,Curacaví,Metropolitana de Santiago,13,204,3,1,34932,18881,Mixta
+13602,El Monte,Metropolitana de Santiago,13,254,3,2,36849,19528,Mixta
+13603,Isla de Maipo,Metropolitana de Santiago,13,253,3,2,35857,18363,Mixta
+13114,Las Condes,Metropolitana de Santiago,13,346,4,4,163354,89152,Urbana
+13115,Lo Barnechea,Metropolitana de Santiago,13,342,4,4,46920,24096,Urbana
+13504,María Pinto,Metropolitana de Santiago,13,187,3,1,15498,7772,Rural
+13202,Pirque,Metropolitana de Santiago,13,333,4,4,24843,12512,Rural
+13125,Quilicura,Metropolitana de Santiago,13,324,4,4,191097,97801,Urbana
+13203,San José de Maipo,Metropolitana de Santiago,13,287,4,2,16091,8949,Rural
+13505,San Pedro,Metropolitana de Santiago,13,64,1,1,11093,5575,Rural
+13107,Huechuraba,Metropolitana de Santiago,13,337,4,4,82606,41901,Urbana
+13303,Tiltil,Metropolitana de Santiago,13,286,4,2,19034,10275,Rural
+13502,Alhué,Metropolitana de Santiago,13,314,4,3,8067,4449,Rural
+13605,Peñaflor,Metropolitana de Santiago,13,303,4,3,82736,39536,Urbana
+13132,Vitacura,Metropolitana de Santiago,13,345,4,4,26180,13678,Urbana
+13402,Buin,Metropolitana de Santiago,13,296,4,3,105316,55077,Urbana
+13126,Quinta Normal,Metropolitana de Santiago,13,270,4,2,117188,68012,Urbana
+6101,Rancagua,Libertador General Bernardo O'Higgins,6,293,4,4,239702,135247,Urbana
+6115,Rengo,Libertador General Bernardo O'Higgins,6,226,3,3,65412,33786,Urbana
+6303,Chimbarongo,Libertador General Bernardo O'Higgins,6,171,2,2,38082,20466,Rural
+6114,Quinta de Tilcoco,Libertador General Bernardo O'Higgins,6,79,1,1,14456,7739,Mixta
+6104,Coltauco,Libertador General Bernardo O'Higgins,6,158,2,2,21616,11119,Mixta
+6111,Olivar,Libertador General Bernardo O'Higgins,6,288,4,4,13397,7098,Mixta
+6301,San Fernando,Libertador General Bernardo O'Higgins,6,279,4,4,75226,41502,Urbana
+6102,Codegua,Libertador General Bernardo O'Higgins,6,232,3,3,13535,7220,Mixta
+6106,Graneros,Libertador General Bernardo O'Higgins,6,242,3,4,35519,19441,Mixta
+6105,Doñihue,Libertador General Bernardo O'Higgins,6,222,3,3,21569,11740,Mixta
+6302,Chépica,Libertador General Bernardo O'Higgins,6,127,2,2,16005,8632,Mixta
+6103,Coinco,Libertador General Bernardo O'Higgins,6,65,1,1,8197,4217,Rural
+6107,Las Cabras,Libertador General Bernardo O'Higgins,6,216,3,3,29243,15428,Rural
+6202,La Estrella,Libertador General Bernardo O'Higgins,6,163,2,2,4663,2342,Rural
+6203,Litueche,Libertador General Bernardo O'Higgins,6,144,2,2,9756,5200,Rural
+6109,Malloa,Libertador General Bernardo O'Higgins,6,108,2,2,14439,7638,Rural
+6306,Palmilla,Libertador General Bernardo O'Higgins,6,248,3,4,13179,7178,Rural
+6307,Peralillo,Libertador General Bernardo O'Higgins,6,192,3,3,12679,7263,Rural
+6113,Pichidegua,Libertador General Bernardo O'Higgins,6,106,2,1,21192,10757,Rural
+6304,Lolol,Libertador General Bernardo O'Higgins,6,67,1,1,8039,3950,Rural
+6204,Marchihue,Libertador General Bernardo O'Higgins,6,269,4,4,9146,4762,Rural
+6305,Nancagua,Libertador General Bernardo O'Higgins,6,168,2,2,18625,9758,Mixta
+6205,Navidad,Libertador General Bernardo O'Higgins,6,15,1,1,8765,4763,Rural
+6112,Peumo,Libertador General Bernardo O'Higgins,6,223,3,3,15012,7815,Mixta
+6206,Paredones,Libertador General Bernardo O'Higgins,6,52,1,1,7918,4481,Rural
+6201,Pichilemu,Libertador General Bernardo O'Higgins,6,87,2,1,23062,12665,Rural
+6308,Placilla,Libertador General Bernardo O'Higgins,6,139,2,2,9579,4926,Rural
+6309,Pumanque,Libertador General Bernardo O'Higgins,6,104,2,1,4777,2684,Rural
+6116,Requínoa,Libertador General Bernardo O'Higgins,6,307,4,4,28169,14972,Mixta
+6117,San Vicente,Libertador General Bernardo O'Higgins,6,191,3,3,49425,26214,Mixta
+6310,Santa Cruz,Libertador General Bernardo O'Higgins,6,214,3,3,41611,23366,Mixta
+6110,Mostazal,Libertador General Bernardo O'Higgins,6,257,3,4,27242,14844,Mixta
+7401,Linares,Maule,7,227,3,4,101441,55056,Urbana
+7302,Hualañé,Maule,7,111,2,2,11330,6532,Rural
+7408,Yerbas Buenas,Maule,7,100,2,1,22324,12115,Rural
+7101,Talca,Maule,7,262,4,4,210236,113630,Urbana
+7201,Cauquenes,Maule,7,141,2,2,46723,25137,Rural
+7403,Longaví,Maule,7,46,1,1,36142,18455,Rural
+7406,San Javier,Maule,7,129,2,2,50936,25155,Mixta
+7303,Licantén,Maule,7,153,2,2,7523,4267,Rural
+7301,Curicó,Maule,7,278,4,4,158285,88159,Urbana
+7402,Colbún,Maule,7,179,3,3,25366,14383,Rural
+7202,Chanco,Maule,7,27,1,1,9866,5203,Rural
+7103,Curepto,Maule,7,115,2,2,10673,6280,Rural
+7104,Empedrado,Maule,7,48,1,1,4440,2218,Rural
+7304,Molina,Maule,7,188,3,3,50304,24959,Mixta
+7105,Maule,Maule,7,175,3,3,59543,30256,Urbana
+7109,San Clemente,Maule,7,137,2,2,50066,27260,Mixta
+7404,Parral,Maule,7,132,2,2,47637,25572,Mixta
+7107,Pencahue,Maule,7,164,2,3,9791,5447,Rural
+7305,Rauco,Maule,7,156,2,3,11425,6202,Rural
+7106,Pelarco,Maule,7,224,3,4,10840,5859,Rural
+7203,Pelluhue,Maule,7,16,1,1,9739,4903,Rural
+7306,Romeral,Maule,7,305,4,4,18270,10117,Mixta
+7405,Retiro,Maule,7,81,1,1,23982,12581,Rural
+7108,Río Claro,Maule,7,255,3,4,15814,8701,Rural
+7307,Sagrada Familia,Maule,7,299,4,4,19481,10436,Rural
+7110,San Rafael,Maule,7,167,2,3,11671,6224,Rural
+7308,Teno,Maule,7,218,3,4,31586,16864,Rural
+7309,Vichuquén,Maule,7,206,3,3,4732,2631,Rural
+7407,Villa Alegre,Maule,7,134,2,2,19011,10564,Mixta
+7102,Constitución,Maule,7,70,1,1,48555,25151,Mixta
+16105,Pemuco,Ñuble,16,84,1,3,9314,4755,Rural
+16102,Bulnes,Ñuble,16,101,2,4,24625,12081,Rural
+16302,Coihueco,Ñuble,16,35,1,2,29444,13850,Rural
+16201,Quirihue,Ñuble,16,51,1,2,11868,6017,Mixta
+16206,Ranquil,Ñuble,16,31,1,1,7005,3860,Rural
+16301,San Carlos,Ñuble,16,88,2,3,57125,28219,Mixta
+16107,Quillón,Ñuble,16,21,1,1,21620,11858,Mixta
+16101,Chillán,Ñuble,16,233,3,4,181611,90588,Urbana
+16205,Portezuelo,Ñuble,16,7,1,1,5614,2957,Rural
+16202,Cobquecura,Ñuble,16,40,1,2,5711,3017,Rural
+16203,Coelemu,Ñuble,16,94,2,4,16328,8023,Rural
+16104,El Carmen,Ñuble,16,6,1,1,13674,6910,Rural
+16305,San Nicolás,Ñuble,16,112,2,4,16696,8342,Rural
+16106,Pinto,Ñuble,16,53,1,3,13841,7590,Rural
+16303,Ñiquén,Ñuble,16,36,1,2,13257,6985,Rural
+16207,Treguaco,Ñuble,16,55,1,3,6110,3270,Rural
+16304,San Fabián,Ñuble,16,57,1,3,5949,3329,Rural
+16108,San Ignacio,Ñuble,16,37,1,2,18336,9983,Rural
+16109,Yungay,Ñuble,16,136,2,4,20274,10541,Rural
+16103,Chillán Viejo,Ñuble,16,229,3,4,34538,17504,Mixta
+8207,Tirúa,Biobío,8,24,1,1,11951,6169,Rural
+8309,Quilleco,Biobío,8,60,1,2,10177,5104,Rural
+8202,Arauco,Biobío,8,107,2,3,38568,19614,Rural
+8101,Concepción,Biobío,8,300,4,4,185537,101376,Urbana
+8302,Antuco,Biobío,8,9,1,1,4479,2255,Rural
+8203,Cañete,Biobío,8,32,1,1,37680,18955,Rural
+8103,Chiguayante,Biobío,8,276,4,4,76695,39600,Urbana
+8303,Cabrero,Biobío,8,103,2,3,31745,16863,Mixta
+8102,Coronel,Biobío,8,157,2,4,120526,59735,Urbana
+8204,Contulmo,Biobío,8,12,1,1,6496,3385,Rural
+8105,Hualqui,Biobío,8,69,1,2,27216,13465,Mixta
+8311,Santa Bárbara,Biobío,8,102,2,2,15327,7566,Rural
+8301,Los Angeles,Biobío,8,202,3,4,213082,108177,Urbana
+8306,Nacimiento,Biobío,8,91,2,2,26411,12540,Mixta
+8308,Quilaco,Biobío,8,149,2,3,4982,2746,Rural
+8107,Penco,Biobío,8,213,3,4,49169,26041,Mixta
+8106,Lota,Biobío,8,120,2,3,44646,23741,Mixta
+8104,Florida,Biobío,8,43,1,2,12767,6491,Rural
+8206,Los Alamos,Biobío,8,92,2,2,25511,12658,Rural
+8314,Alto Biobío,Biobío,8,3,1,1,7234,3534,Rural
+8305,Mulchén,Biobío,8,105,2,3,30007,15166,Mixta
+8312,Tucapel,Biobío,8,126,2,3,17137,9542,Rural
+8310,San Rosendo,Biobío,8,28,1,1,3966,2139,Rural
+8313,Yumbel,Biobío,8,41,1,1,24153,12557,Mixta
+8110,Talcahuano,Biobío,8,283,4,4,140879,77198,Urbana
+8304,Laja,Biobío,8,96,2,2,24328,11588,Mixta
+8307,Negrete,Biobío,8,122,2,3,11904,6621,Rural
+8109,Santa Juana,Biobío,8,83,1,2,16255,8427,Mixta
+8201,Lebu,Biobío,8,13,1,1,26863,13359,Mixta
+8205,Curanilahue,Biobío,8,152,2,4,33333,16472,Mixta
+8108,San Pedro de la Paz,Biobío,8,282,4,4,118474,55855,Urbana
+9119,Vilcún,La Araucanía,9,130,2,4,32997,15940,Rural
+9111,Nueva Imperial,La Araucanía,9,29,1,2,35653,16160,Mixta
+9115,Pucón,La Araucanía,9,212,3,4,35447,18066,Rural
+9112,Padre Las Casas,La Araucanía,9,125,2,3,80574,35655,Mixta
+9105,Freire,La Araucanía,9,56,1,3,27855,13804,Rural
+9203,Curacautín,La Araucanía,9,59,1,3,20096,10420,Mixta
+9102,Carahue,La Araucanía,9,11,1,1,25767,12202,Rural
+9121,Cholchol,La Araucanía,9,25,1,2,15160,7398,Rural
+9202,Collipulli,La Araucanía,9,131,2,4,25880,13017,Rural
+9103,Cunco,La Araucanía,9,82,1,3,21473,10732,Rural
+9211,Victoria,La Araucanía,9,148,2,4,35390,16721,Mixta
+9204,Ercilla,La Araucanía,9,26,1,2,9887,4832,Rural
+9104,Curarrehue,La Araucanía,9,23,1,2,10212,5505,Rural
+9114,Pitrufquén,La Araucanía,9,71,1,3,29179,14872,Mixta
+9106,Galvarino,La Araucanía,9,20,1,1,13794,6216,Rural
+9208,Purén,La Araucanía,9,10,1,1,13125,6381,Rural
+9107,Gorbea,La Araucanía,9,47,1,2,15381,7631,Rural
+9108,Lautaro,La Araucanía,9,173,2,4,43803,20827,Mixta
+9109,Loncoche,La Araucanía,9,58,1,3,26485,12828,Mixta
+9110,Melipeuco,La Araucanía,9,22,1,2,8427,4427,Rural
+9205,Lonquimay,La Araucanía,9,19,1,1,12566,6671,Rural
+9207,Lumaco,La Araucanía,9,14,1,1,9433,4321,Rural
+9113,Perquenco,La Araucanía,9,34,1,2,7723,3403,Rural
+9209,Renaico,La Araucanía,9,75,1,3,11495,5908,Mixta
+9116,Saavedra,La Araucanía,9,1,1,1,14109,6712,Rural
+9206,Los Sauces,La Araucanía,9,50,1,3,8032,4019,Rural
+9117,Teodoro Schmidt,La Araucanía,9,8,1,1,17023,8350,Rural
+9210,Traiguén,La Araucanía,9,38,1,2,19692,9828,Mixta
+9118,Toltén,La Araucanía,9,18,1,1,10547,5078,Rural
+9120,Villarrica,La Araucanía,9,230,3,4,73946,38664,Mixta
+9101,Temuco,La Araucanía,9,236,3,4,265839,134647,Urbana
+14102,Corral,Los Ríos,14,61,1,1,6134,3341,Rural
+14202,Futrono,Los Ríos,14,54,1,1,17111,7945,Rural
+14101,Valdivia,Los Ríos,14,267,4,4,156766,87237,Urbana
+14204,Río Bueno,Los Ríos,14,183,3,3,33229,16886,Mixta
+14201,La Unión,Los Ríos,14,215,3,4,39250,19955,Rural
+14203,Lago Ranco,Los Ríos,14,140,2,2,12866,6645,Rural
+14103,Lanco,Los Ríos,14,184,3,4,19814,11140,Mixta
+14104,Los Lagos,Los Ríos,14,161,2,3,21744,11163,Rural
+14105,Máfil,Los Ríos,14,78,1,1,8100,4158,Mixta
+14106,Mariquina,Los Ríos,14,143,2,3,25807,14116,Rural
+14108,Panguipulli,Los Ríos,14,121,2,2,40528,20354,Rural
+14107,Paillaco,Los Ríos,14,118,2,2,22360,11398,Rural
+10305,Río Negro,Los Lagos,10,165,2,3,15132,8305,Rural
+10203,Chonchi,Los Lagos,10,169,2,3,16111,8639,Rural
+10204,Curaco de Vélez,Los Lagos,10,90,2,1,4143,2172,Rural
+10102,Calbuco,Los Lagos,10,150,2,2,36257,17361,Mixta
+10202,Ancud,Los Lagos,10,193,3,3,43140,23093,Mixta
+10105,Frutillar,Los Lagos,10,261,4,4,23257,12803,Rural
+10303,Purranque,Los Lagos,10,196,3,3,20683,10503,Rural
+10307,San Pablo,Los Lagos,10,95,2,2,11972,6223,Rural
+10205,Dalcahue,Los Lagos,10,138,2,2,16761,9035,Rural
+10109,Puerto Varas,Los Lagos,10,336,4,4,45048,24424,Mixta
+10104,Fresia,Los Lagos,10,62,1,1,12812,6318,Rural
+10207,Queilén,Los Lagos,10,147,2,2,6042,3322,Rural
+10107,Llanquihue,Los Lagos,10,256,3,4,18681,9897,Rural
+10106,Los Muermos,Los Lagos,10,76,1,1,18517,9530,Rural
+10301,Osorno,Los Lagos,10,281,4,4,154112,79185,Urbana
+10108,Maullín,Los Lagos,10,119,2,2,15947,9190,Rural
+10302,Puerto Octay,Los Lagos,10,185,3,3,9450,5086,Rural
+10206,Puqueldón,Los Lagos,10,63,1,1,3932,1969,Rural
+10209,Quemchi,Los Lagos,10,110,2,2,9000,4959,Rural
+10304,Puyehue,Los Lagos,10,180,3,3,12062,5853,Rural
+10208,Quellón,Los Lagos,10,170,2,3,29340,14822,Mixta
+10210,Quinchao,Los Lagos,10,30,1,1,7775,3692,Rural
+10306,San Juan de la Costa,Los Lagos,10,5,1,1,9893,5135,Rural
+10201,Castro,Los Lagos,10,198,3,4,48335,25002,Mixta
+10101,Puerto Montt,Los Lagos,10,294,4,4,255037,139692,Urbana
+10103,Cochamó,Los Lagos,10,77,1,1,4792,2949,Rural
+10403,Hualaihué,Los Lagos,10,99,2,2,10970,6035,Rural
+10404,Palena,Los Lagos,10,200,3,4,2121,1149,Rural
+10401,Chaitén,Los Lagos,10,93,2,2,4918,2475,Rural
+11302,O'Higgins,Aysén del General Carlos Ibáñez del Campo,11,329,4,4,923,590,Rural
+11303,Tortel,Aysén del General Carlos Ibáñez del Campo,11,190,3,2,570,313,Rural
+11401,Chile Chico,Aysén del General Carlos Ibáñez del Campo,11,85,1,1,5633,3003,Rural
+11102,Lago Verde,Aysén del General Carlos Ibáñez del Campo,11,172,2,2,984,670,Rural
+11203,Guaitecas,Aysén del General Carlos Ibáñez del Campo,11,98,2,2,1748,787,Rural
+11101,Coihaique,Aysén del General Carlos Ibáñez del Campo,11,292,4,4,59248,30783,Urbana
+11201,Aisén,Aysén del General Carlos Ibáñez del Campo,11,265,4,4,25804,14192,Rural
+11402,Río Ibáñez,Aysén del General Carlos Ibáñez del Campo,11,72,1,1,3122,1858,Rural
+11202,Cisnes,Aysén del General Carlos Ibáñez del Campo,11,231,3,3,6121,3533,Rural
+11301,Cochrane,Aysén del General Carlos Ibáñez del Campo,11,203,3,3,3740,2049,Rural
+12102,Laguna Blanca,Magallanes y de la Antártica Chilena,12,268,4,2,192,142,Rural
+12301,Porvenir,Magallanes y de la Antártica Chilena,12,326,4,4,6735,4151,Rural
+12302,Primavera,Magallanes y de la Antártica Chilena,12,323,4,3,436,283,Rural
+12201,Cabo de Hornos,Magallanes y de la Antártica Chilena,12,328,4,4,1901,1057,Rural
+12402,Torres del Paine,Magallanes y de la Antártica Chilena,12,272,4,2,265,178,Rural
+12303,Timaukel,Magallanes y de la Antártica Chilena,12,258,3,1,188,132,Rural
+12104,San Gregorio,Magallanes y de la Antártica Chilena,12,250,3,1,334,216,Rural
+12103,Río Verde,Magallanes y de la Antártica Chilena,12,274,4,2,185,146,Rural
+10402,Futaleufú,Los Lagos,10,263,4,4,3441,1747,Rural
+12401,Natales,Magallanes y de la Antártica Chilena,12,317,4,3,26260,15123,Rural
+12202,Antártica,Magallanes y de la Antártica Chilena,12,321,4,3,0,0,
+5501,Quillota,Valparaíso,5,240,3,3,91338,50763,Urbana
+13103,Cerro Navia,Metropolitana de Santiago,13,128,2,1,130965,74521,Urbana
+13112,La Pintana,Metropolitana de Santiago,13,133,2,1,177530,88520,Urbana
+4101,La Serena,Coquimbo,4,244,3,4,212762,105299,Urbana
+8111,Tomé,Biobío,8,113,2,3,57844,30722,Urbana
+12101,Punta Arenas,Magallanes y de la Antártica Chilena,12,335,4,4,121356,67396,Urbana
+9201,Angol,La Araucanía,9,146,2,4,54057,26318,Urbana
+8112,Hualpén,Biobío,8,275,4,4,89339,48852,Urbana
+13113,La Reina,Metropolitana de Santiago,13,341,4,4,53532,28772,Urbana
+6108,Machalí,Libertador General Bernardo O'Higgins,6,318,4,4,46247,24590,Urbana
+13501,Melipilla,Metropolitana de Santiago,13,178,3,1,134468,68988,Urbana
+16204,Ninhue,Ñuble,16,4,1,1,6148,3487,Rural
+13129,San Joaquín,Metropolitana de Santiago,13,304,4,3,98047,59248,Urbana

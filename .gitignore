@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos de datos pesados (No subir a GitHub)
+datos/censo2024/*.csv
+datos/censo2024/*.zip
+datos/censo2024/*.shp
+datos/censo2024/*.dbf
+datos/censo2024/*.shx
+datos/socioeconomico/*.xlsx
+datos/Diputados/*.xlsx
+datos/ideologia/*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
