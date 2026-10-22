@@ -4,7 +4,7 @@
 Este proyecto analiza la relación entre las características socioeconómicas de las 346 comunas de Chile y su comportamiento político en las elecciones parlamentarias de 2021. 
 
 A través de la integración de datos electorales (SERVEL), demográficos (Censo 2024), socioeconómicos (IGVUST, CASEN) y de posición ideológica legislativa (Fábrega), el estudio evalúa hipótesis sobre el voto en Chile, aplicando correcciones metodológicas avanzadas:
-*   **Educación y Polarización (Corrección Metodológica):** El análisis inicial a nivel comunal (N=346) sugería que la educación impulsaba la polarización. Sin embargo, tras corregir la pseudoreplicación (la polarización es un dato distrital, no comunal), la educación perdió significancia estadística (p=0.45) en el modelo de N=28. La ruralidad surge como el factor con mayor magnitud (coef=-0.399), aunque con baja potencia estadística.
+*   **Educación y Polarización (Corrección Metodológica):** El análisis inicial a nivel comunal (N=346) sugería que la educación impulsaba la polarización. Sin embargo, tras corregir la pseudoreplicación (la polarización es un dato distrital, no comunal) y ponderar por electores, la educación perdió significancia estadística en el modelo de N=28.
 *   **La Pobreza y el Voto de Derecha:** En 2021, las comunas más pobres votaron mayoritariamente por la derecha (Chile Podemos +). La hipótesis de que la migración o la tasa de delitos objetivos empujan el voto a la derecha fue estadísticamente rechazada.
 *   **Fragmentación y Edad:** La fragmentación política (número de partidos compitiendo) está determinada por la estructura etaria (comunas más jóvenes = más fragmentadas), mientras que la escolaridad y la ruralidad resultaron ser variables espurias.
 
@@ -20,16 +20,16 @@ El proyecto utiliza exclusivamente datos abiertos y oficiales:
 ## 🔬 Metodología y Limitaciones
 *   **Procesamiento Eficiente:** Se utilizó `DuckDB` para procesar archivos CSV de 2.5 GB (Censo) en segundos, sin saturar la memoria RAM.
 *   **Nivel de Análisis:** Ecológico (comunal). Se advierte explícitamente el riesgo de **falacia ecológica** (no se pueden inferir comportamientos individuales a partir de promedios comunales).
-*   **Sistema Electoral:** La polarización se calcula a nivel de *distrito* (28 unidades), ya que los diputados se eligen por distrito, no por comuna. Las comunas heredan el valor de su distrito.
+*   **Sistema Electoral:** La polarización se calcula a nivel de *distrito* (28 unidades). Para la agregación de variables socioeconómicas, se utilizó una media ponderada por la cantidad de electores (padrón SERVEL 2021) para reflejar el peso real de cada comuna en el distrito.
 *   **Sesgo del Voto Voluntario:** La elección de 2021 se realizó bajo voto voluntario. Se calculó la tasa de participación real por comuna (usando el padrón electoral de SERVEL) para controlar este sesgo en los modelos.
 
 ## 📈 Hallazgos Clave (Regresiones Múltiples)
 
-**Nota metodológica:** Los modelos de fragmentación y voto de derecha se corrieron a nivel comunal (N=346) con variables estandarizadas. El modelo de polarización original (N=346) fue descartado por pseudoreplicación y recalculado a nivel distrital (N=28).
+**Nota metodológica:** Los modelos de fragmentación y voto de derecha se corrieron a nivel comunal (N=346) con variables estandarizadas. El modelo de polarización original (N=346) fue descartado por pseudoreplicación y recalculado a nivel distrital (N=28) con ponderación por electores.
 
 *   **Variable Dependiente: Fragmentación (N=346).** \(R^2\) = 0.109. Predictores significativos: `edad_promedio` (β = -0.226, p<0.001) y `tasa_desocupacion` (β = 0.190, p<0.01).
 *   **Variable Dependiente: Voto de Derecha (N=346).** \(R^2\) = 0.136. Predictores significativos: `tasa_pobreza` (β = 0.338, p<0.001) y `edad_promedio` (β = 0.227, p<0.001).
-*   **Variable Dependiente: Polarización (N=28).** \(R^2\) = 0.321. Ningún predictor alcanzó significancia al 5%. La `ruralidad` presentó el coeficiente más alto (β = -0.399, p=0.11), seguida de `educación` (β = 0.195, p=0.45). El modelo Lasso eliminó las demás variables (pobreza, migración, delitos).
+*   **Variable Dependiente: Polarización (N=28).** Regresión OLS ponderada. El modelo no es significativo en su conjunto (F=2.627, p=0.0735). El \(R^2\) in-sample es 0.247 (Adj. \(R^2\) = 0.153), pero el \(Q^2\) out-of-sample (Leave-One-Out) cae a 0.056, demostrando sobreajuste. Ningún predictor fue significativo (intervalos de confianza cruzando el cero). **Conclusión:** Las variables socioeconómicas no tienen capacidad predictiva sobre la polarización distrital.
 
 ## 🧭 Análisis Espacial y Validación (Fase 4)
 
@@ -58,7 +58,7 @@ Durante la revisión del proyecto, se identificaron y corrigieron tres errores m
 ## ⚙️ Cómo Reproducir este Proyecto
 1. Clonar el repositorio.
 2. Crear un entorno virtual (`python -m venv venv`).
-3. Instalar dependencias: `pip install pandas duckdb matplotlib seaborn scipy scikit-learn libpysal esda pyshp openpyxl`.
+3. Instalar dependencias: `pip install pandas duckdb matplotlib seaborn scipy scikit-learn statsmodels libpysal esda pyshp openpyxl`.
 4. Ejecutar los notebooks en la carpeta `notebooks/` en orden secuencial (01 al 06).
 
 *Nota: Todos los datasets crudos y procesados se encuentran en la carpeta `datos/` y `resultados/` respectivamente.*
